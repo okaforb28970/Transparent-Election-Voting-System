@@ -1,33 +1,4 @@
 
-;; title: Transparent-Election
-;; version:
-;; summary:
-;; description:
-
-;; traits
-;;
-
-;; token definitions
-;;
-
-;; constants
-;;
-
-;; data vars
-;;
-
-;; data maps
-;;
-
-;; public functions
-;;
-
-;; read only functions
-;;
-
-;; private functions
-;;
-
 
 (define-constant contract-owner tx-sender)
 (define-constant err-owner-only (err u100))
