@@ -19,6 +19,12 @@ epoch = 3.1
 path = 'contracts/voter-reputation.clar'
 clarity_version = 3
 epoch = 3.1
+
+[contracts.emergency-suspension]
+path = 'contracts/emergency-suspension.clar'
+clarity_version = 3
+epoch = 3.1
+
 [repl.analysis]
 passes = ['check_checker']
 
